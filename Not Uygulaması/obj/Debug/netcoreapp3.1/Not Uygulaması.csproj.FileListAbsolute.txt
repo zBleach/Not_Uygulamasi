@@ -1,0 +1,15 @@
+C:\Users\user\Masaüstü\C# Proje\Not Uygulaması\Not Uygulaması\bin\Debug\netcoreapp3.1\Not Uygulaması.exe
+C:\Users\user\Masaüstü\C# Proje\Not Uygulaması\Not Uygulaması\bin\Debug\netcoreapp3.1\Not Uygulaması.deps.json
+C:\Users\user\Masaüstü\C# Proje\Not Uygulaması\Not Uygulaması\bin\Debug\netcoreapp3.1\Not Uygulaması.runtimeconfig.json
+C:\Users\user\Masaüstü\C# Proje\Not Uygulaması\Not Uygulaması\bin\Debug\netcoreapp3.1\Not Uygulaması.runtimeconfig.dev.json
+C:\Users\user\Masaüstü\C# Proje\Not Uygulaması\Not Uygulaması\bin\Debug\netcoreapp3.1\Not Uygulaması.dll
+C:\Users\user\Masaüstü\C# Proje\Not Uygulaması\Not Uygulaması\bin\Debug\netcoreapp3.1\Not Uygulaması.pdb
+C:\Users\user\Masaüstü\C# Proje\Not Uygulaması\Not Uygulaması\obj\Debug\netcoreapp3.1\Not Uygulaması.csprojAssemblyReference.cache
+C:\Users\user\Masaüstü\C# Proje\Not Uygulaması\Not Uygulaması\obj\Debug\netcoreapp3.1\Not_Uygulaması.Form1.resources
+C:\Users\user\Masaüstü\C# Proje\Not Uygulaması\Not Uygulaması\obj\Debug\netcoreapp3.1\Not Uygulaması.csproj.GenerateResource.cache
+C:\Users\user\Masaüstü\C# Proje\Not Uygulaması\Not Uygulaması\obj\Debug\netcoreapp3.1\Not Uygulaması.AssemblyInfoInputs.cache
+C:\Users\user\Masaüstü\C# Proje\Not Uygulaması\Not Uygulaması\obj\Debug\netcoreapp3.1\Not Uygulaması.AssemblyInfo.cs
+C:\Users\user\Masaüstü\C# Proje\Not Uygulaması\Not Uygulaması\obj\Debug\netcoreapp3.1\Not Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\user\Masaüstü\C# Proje\Not Uygulaması\Not Uygulaması\obj\Debug\netcoreapp3.1\Not Uygulaması.dll
+C:\Users\user\Masaüstü\C# Proje\Not Uygulaması\Not Uygulaması\obj\Debug\netcoreapp3.1\Not Uygulaması.pdb
+C:\Users\user\Masaüstü\C# Proje\Not Uygulaması\Not Uygulaması\obj\Debug\netcoreapp3.1\Not Uygulaması.genruntimeconfig.cache
